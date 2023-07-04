@@ -1,0 +1,553 @@
+@import url('https://fonts.cdnfonts.com/css/gilroy');
+
+
+body {
+  margin: 0;
+ font-family: 'Gilroy';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Gilroy';
+}
+
+img{
+  cursor :pointer;
+}
+
+
+a#basic-nav-dropdown,
+a.nav-link {
+  font-weight: 400;
+  color: black;
+}
+
+
+
+li>a {
+  color: #666666;
+  text-decoration: none;
+  font-size: 10px;
+}
+
+.header-content{
+  padding-left: 0px;
+  max-width: 493px;
+    
+
+}
+
+.header-content h1{
+  color: #41efd2;
+  font-size: 47px;
+  line-height: 1.5;
+}
+
+.header-content p {
+  font-size: 26px;
+  color:white;
+  font-weight: 500;
+
+}
+
+
+
+.header-section {
+
+  position: relative;
+  background-image: radial-gradient(69.87% 39.16% at 24.62% 44.61%,#7D4ACE 0%,#642ABD 100%);
+  padding-top: 10%;
+  padding-bottom: 10%;
+  
+}
+
+
+.header-section::after{
+  position: absolute;
+    content: "";
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-repeat: no-repeat;
+    pointer-events: none;
+    z-index: 1;
+}
+
+.main-header-section::after{
+
+    background-image: url('../public/background-section1.png');
+    background-position: bottom right;
+    background-size: auto 110%;
+
+}
+
+.header-content>ul {
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.trader{
+  gap: 20px;
+}
+
+a.btn-primary {
+  background: #FFFFFF;
+  text-decoration: none;
+  color: black;
+  font-size:14px;
+  text-align: center;
+  font-weight: 600;
+  margin-bottom: 12px;
+  min-width: 150px;
+  min-height: 70px;
+  border-radius: 20px;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.btn:hover {
+  background: #FFFFFF!important;
+  border: 2px solid #02b496!important;
+  color: black!important;
+
+}
+
+
+.wrapper{
+    padding: 5%;
+    width: fit-content;
+}
+
+section.platforms {
+  
+  display: flex;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  font-size: 20px;
+}
+
+h2.platforms-title.title {
+  font-size: 44px;
+}
+
+.platform-box{
+  width: 400px;
+  max-width: fit-content;
+}
+
+.platforms-title {
+  color: #02b496;
+  padding-bottom:30px;
+  border-bottom: 1px solid black;
+}
+
+
+.platforms-caption{
+  color: #7d4ace;
+}
+
+
+.title {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 1.18;
+  margin-bottom: 20px;
+}
+
+a.scroll-btn{
+  margin-top: 10%;
+  color : #7d4ace;
+}
+
+.mt5{
+  background-image: url('https://toptrader.eu//assets/download-bg-web-9a798ec9.png');
+  background-size: cover;
+  background-position: top center;
+  overflow: hidden;
+  
+}
+
+.mt5-title{
+  color: white;
+  font-size: 44px;
+}
+.mt5-text{
+  padding-top: 20px;
+  color:white;
+  font-size: 20px;
+}
+
+.row-mt5{
+  padding:10%!important;
+}
+
+.download-btns{
+  padding-top: 10px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  gap: 20px;
+}
+
+.download-btns a{
+    font-size: 16px;
+    
+}
+
+.scroll-btn-metatrader{
+  color:white;
+  padding-bottom: 5%;
+}
+
+#benefits-mt5{
+  padding-top: 8%;
+}
+
+
+.benefits{
+  display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.benefits-content{
+  gap:25px
+}
+
+.benefit-li {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+
+.footer-social-icon-fb {
+  background-image: url("https://toptrader.eu/assets/icon-facebook-15c0bdb3.svg");
+  width: 30px;
+  height: 30px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+.footer-social-icon-ig {
+  background-image: url("https://toptrader.eu//assets/icon-instagram-2be22438.svg");
+  width: 30px;
+  height: 30px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+.footer-social-icon-tw {
+  background-image: url("https://toptrader.eu/assets/icon-twitter-944360dc.svg");
+  width: 30px;
+  height: 30px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+.footer-social-icon-lin {
+  background-image: url("https://toptrader.eu/assets/icon-linked-58d4e360.svg");
+  width: 30px;
+  height: 30px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+.qr-code {
+  background: white !important;
+  width: 70px;
+  height: 70px;
+
+  align-items: center;
+  border-radius: 21px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.social-media-icons{
+  padding-top: 10px;
+  justify-content: space-between;
+}
+
+.social-icon{
+  padding-left: 50px;
+}
+
+.footer-terms {
+  font-size: 10px;
+}
+
+ul.list-group.list-unstyled > li > a > span {
+
+  font-size: 14px;
+  color:black;
+  font-weight: 600;
+
+
+}
+span.social-title{
+  font-size: 14px;
+  font-weight: 600;
+
+}
+
+
+
+.disclaimer-footer{
+
+  position: fixed;
+  background: #ebebeb;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  z-index: 10;
+  border-radius: 14px 14px 0 0;
+  text-align: center;
+
+
+}
+
+
+
+.disclaimer-footer p>span {
+  font-size: 10px;
+  line-height: 0.8;
+  text-align: center;
+
+
+}
+
+.promo{
+  gap:30px;
+}
+
+.promo-title{
+  font-size: 44px;
+  font-weight: 600;
+}
+
+.btn-contact{
+    padding: 12px;
+    display: inline-flex;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    color:black;
+    font-size: 24px;
+    font-weight: 500;
+    text-transform: capitalize;
+    min-width: 310px;
+    background: #41efd2;
+    border: 2px solid #41efd2;
+    border-radius: 24px;
+}
+
+.wave{
+  position: relative;
+  top: 33%;
+  height: 100%;
+  z-index: -1;
+}
+
+
+.terms-area{
+  padding-bottom: 7%;
+}
+
+@media only screen and (max-width: 559px) {
+.trader{
+  flex-direction: column;
+  
+}
+.btn-primary{
+  width: fit-content;
+}
+}
+
+
+
+@media only screen and (max-width: 600px) {
+
+  .trader{
+    gap: 0;
+  }
+
+  ul.list-group.list-unstyled {
+    padding-top: 5%;
+  }
+
+  .icons-footer {
+    padding-top: 5%;
+    padding-bottom: 5%;
+  }
+  .header{
+    background-image: none;
+  }
+  .wrapper{
+    padding-top: 30px;
+  }
+  .images-section{
+    padding:10px;
+  }
+
+  .main-header-section::after {
+  
+    background-image: url('../public/background-section1.png');
+    background-size: contain;
+    background-position: bottom right -120px;
+  
+  }
+
+
+  
+ 
+
+}
+
+@media only screen and (min-width: 601px) and (max-width: 912px) {
+
+  .main-header-section::after {
+  
+    background-image: url('../public/background-section1.png');
+    background-size: contain;
+    background-position: bottom right -190px;
+  
+  }
+
+}
+
+@media only screen and (min-width: 913px) and (max-width: 1200px) {
+
+  .main-header-section::after {
+    content: "";
+    display: inline-block;
+    background-image: url('../public/background-section1.png');
+    background-position: bottom -50px right -200px;
+    background-size: contain;
+  
+  }
+}
+
+
+@media only screen and (max-width: 991px) and (min-width: 913px) {
+  #metatrader5{
+    padding-top: 15%;
+  }
+  .hidden-mobile{
+    display: none;
+  }
+}
+
+
+
+@media only screen and (max-width: 912px) {
+
+
+  
+  .hidden-mobile {
+    display: none!important;
+  }
+  .header-content h1{
+    font-size: 30px!important;
+    padding-top: 20%;
+
+  }
+  .button-group{
+    padding-top: 2%;
+    padding-bottom: 8%;
+  }
+
+  h2.platforms-title.title , .mt5-title{
+    font-size: 26px!important;
+  }
+
+  .title{
+    
+    font-size: 22px!important;
+
+  }
+  .promo-title {
+    font-size: 28px!important;
+  }
+  .mt5-text{
+    font-size: 16px!important;
+    font-weight: 400;
+  }
+
+  .platform-box ul > li{
+    font-size: 13px!important;
+  }
+  section.platforms{
+    padding-top:10%!important;
+    padding-bottom:10%!important;
+  }
+
+  .download-btns{
+    flex-direction: row!important;
+    padding-bottom: 20px;
+    
+  }
+
+  .platform-box{
+    max-width: 300px;
+  }
+
+  .mt5-content{
+    padding-top: 35%;
+  }
+
+  .benefit-li {
+    font-size: 13px;
+    font-weight: 400;
+  }
+
+  .benefits-content{
+    gap:15px
+  }
+  .promo{
+    padding-top: 10%;
+  }
+  
+
+ 
+  .social-icon {
+  
+    margin-top: 9px;
+  
+  }
+
+  .terms-area{
+    padding-bottom: 15%;
+  }
+
+  .disclaimer-footer > p{
+    line-height: 0.9;
+  }
+
+
+  
+}
+
+@media only screen and (max-width: 1069px) {
+
+  .social-media-icons{
+    flex-direction: column!important;
+    gap: 15px;
+  }
+  
+
+
+}
+
+

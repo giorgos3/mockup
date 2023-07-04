@@ -1,0 +1,93 @@
+{
+  "header":{
+    "products":"Products",
+    "platforms":"Platforms",
+    "learn":"Learn",
+    "company":"Company",
+    "signin":"Sign in",
+    "register":"Get Started"
+  },
+  "section-header":{
+     "h1":"EXPLORE TOPTRADER PLATFORM",
+     "p":"We make it easy to invest",
+     "li1":"Easy-to-use trading app",
+     "li2":"Instant access to the global markets",
+     "li3":"Trade on the go" 
+  },
+  "platform":{
+    "title":"TopTrader Platform",
+    "caption":{
+      "simple":{
+        "title" :"Simple",
+         "li1" :"A light trading app with fast access to the markets",
+         "li2": "Easy trading throught your mobile or web browser",
+         "li3" :"Manage your portofolio from anywhere"
+      },
+      "secure":{
+        "title" :"Secure",
+         "li1" :"All information and data are securely encrypted",
+         "li2": "Two-factor authentication",
+         "li3" :"Try the app to discover new ways to trade with confidence"
+      },
+      "functional":{
+        "title" :"Functional",
+         "li1" :"Featuring powerfull tradingView charting",
+         "li2": "Easy-to-use trading app",
+         "li3" :"Easy access to news, market heat map"
+      }
+    }
+  },
+  "mt5":{
+    "text":"MT5 is one of the most used platforms chosen by traders and investors worldwide for trading the financial markets. Download it today and elevate your trading from all the advantages it has to offer.",
+    "download":"Download"
+  },
+  "benefits":{
+    "title":"Benefits of <br/> MetaTrader 5",
+    "benefits":{
+      "li1":"21 charting timeframes",
+      "li2":"6 types of pending orders",
+      "li3":"Depth of markets",
+      "li4":"Customizable charts",
+      "li5":"Integrated Economic Calendar",
+      "li6":"One-click trading",
+      "li7":"Empowered with Acuity Trading tools"
+    }
+  },
+  "promo":{
+    "title":"Not sure which<br/>Platform is for you?",
+    "cta":"Get in Touch"
+  },
+  "footer":{
+    "products":"Products",
+    "stocks":"Stocks",
+    "etfs":"ETFs",
+    "indices":"Indices",
+    "commodities":"Commodities",
+    "crypto":"Crypto",
+    "forex":"Forex",
+    "platforms":"Platforms",
+    "topTrader":"TopTrader",
+    "mt5":"MetaTrader5",
+    "learn":"Learn",
+    "help-center":"Help Center",
+    "signal-center":"Signal Center",
+    "company":"Company",
+    "about":"About",
+    "regulation":"Regulation",
+    "legal":"Legal Documents",
+    "contact":"Contact us",
+    "social":"Social",
+    "client-agree":"Client Agreement",
+    "privacy":"Privacy Policy",
+    "cookie":"Cookie Policy",
+    "risk":"Risk Disclosure",
+    "terms":{
+      "p":"T.T. TOPTRADER TRADING is a registered brand name of Goldenburg Group Limited, a Cyprus Investment Firm (CIF) supervised and regulated by the Cyprus Securities and Exchange Commission (CySEC) with CIF Licence No 242/14 with a registered address at 46 Ayiou Athanasiou, Ayios Athanasios, Interlink Hermes Plaza, 4102 Limassol, Cyprus.",
+      "risk":"Risk Warning: CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. 89.25% of retail investor accounts lose money when trading CFDs with this provider. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.",
+      "area":"Restricted regions: toptrader.eu provides its services to residents of the European Economic Area (EEA) excluding Belgium, Switzerland and Slovenia. toptrader.eu does not provide its services in UK and in the territories of third countries except of South Africa and Labuan."
+    },
+    "disclaimer":"CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. <b>89.25% of retail investor accounts lose money when trading CFDs with this provider.</b> You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money."
+  }
+
+   
+  }

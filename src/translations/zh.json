@@ -1,0 +1,94 @@
+{
+  "header":{
+    "products":"产品",
+    "platforms":"平台",
+    "learn":"学习",
+    "company":"公司",
+    "signin":"登入",
+    "register":"开始使用"
+  },
+  "section-header":{
+    "h1":"探索 TOPTRADER 平台",
+    "p":"我们让投资变得简单",
+    "li1":"易于使用的交易应用程序",
+    "li2":"即时进入全球市场",
+    "li3":"随时随地进行交易" 
+ },
+
+ "platform":{
+  "title":"顶级交易者平台",
+  "caption":{
+    "simple":{
+      "title" :"简单的",
+       "li1" :"一款可快速进入市场的轻型交易应用程序",
+       "li2": "通过您的手机或网络浏览器轻松交易",
+       "li3" :"随时随地管理您的投资组合"
+    },
+    "secure":{
+      "title" :"安全的",
+       "li1" :"所有信息和数据均经过安全加密",
+       "li2": "双因素身份验证",
+       "li3" :"尝试该应用程序以发现充满信心的交易新方法"
+    },
+    "functional":{
+      "title" :"功能性",
+       "li1" :"具有强大的交易功能查看图表",
+       "li2": "易于使用的交易应用程序",
+       "li3" :"轻松获取新闻、市场热图"
+    }
+  }
+},
+"mt5":{
+  "text":"MT5 是全球交易者和投资者选择最常用的金融市场交易平台之一。立即下载，利用其提供的所有优势提升您的交易水平。",
+  "download":"下载"
+},
+"benefits":{
+  "title":"<br/>MetaTrader 5 的优点",
+  "benefits":{
+    "li1":"21 个图表时间范围",
+    "li2":"6种挂单类型",
+    "li3":"市场深度",
+    "li4":"可定制的图表",
+    "li5":"综合经济日历",
+    "li6":"一键交易",
+    "li7":"配备 Acuity 交易工具"
+  }
+},
+"promo":{
+  "title":"不确定哪个<br/>平台适合您？",
+  "cta":"保持联系"
+},
+  "footer":{
+    "products":"产品",
+    "stocks":"股票",
+    "etfs":"ETFs",
+    "indices":"指数",
+    "commodities":"商品",
+    "crypto":"加密货币",
+    "forex":"外汇",
+    "platforms":"平台",
+    "topTrader":"TopTrader",
+    "mt5":"MetaTrader5",
+    "learn":"学习",
+    "help-center":"帮助中心",
+    "signal-center":"信号中心",
+    "company":"公司",
+    "about":"关于",
+    "regulation":"规定",
+    "legal":"合法文件",
+    "contact":"联系我们",
+    "social":"社会的",
+    "client-agree":"客户协议",
+    "privacy":"隐私政策",
+    "cookie":"Cookie 政策",
+    "risk":"风险披露",
+    "terms":{
+      "p":"T.T. TOPTRADER TRADING 是 Goldenburg Group Limited 的注册品牌名称，该公司是一家塞浦路斯投资公司 (CIF)，受塞浦路斯证券交易委员会 (CySEC) 监管，CIF 许可证号为 242/14，注册地址为 46 Ayiou Athanasiou, Ayios Athanasios，Interlink Hermes Plaza，4102 利马索尔，塞浦路斯。",
+      "risk":"风险警告：差价合约是复杂的工具，并且由于杠杆作用而具有快速亏损的高风险。 89.25% 的散户投资者账户在与该提供商交易差价合约时亏损。您应该考虑您是否了解差价合约的运作方式以及您是否有能力承担损失资金的高风险。",
+      "area":"限制区域：toptrader.eu 向欧洲经济区 (EEA) 的居民提供服务，不包括比利时、瑞士和斯洛文尼亚。 toptrader.eu 不在英国以及除南非和纳闽岛之外的第三国领土提供服务。"
+    },
+    "disclaimer":"差价合约是复杂的工具，并且由于杠杆作用而具有快速亏损的高风险。 <b>89.25% 的散户投资者账户在与该提供商交易差价合约时亏损。</b>您应该考虑您是否了解差价合约的运作方式以及您是否有能力承担亏损的高风险。"
+  }
+    
+   
+  }

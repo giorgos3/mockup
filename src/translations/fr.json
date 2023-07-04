@@ -1,0 +1,92 @@
+{
+  "header":{
+    "products":"Des produits",
+    "platforms":"Plateformes",
+    "learn":"Apprendre",
+    "company":"Entreprise",
+    "signin":"S'identifier",
+    "register":"Commencer"
+  },
+  "section-header":{
+    "h1":"EXPLOREZ LA PLATEFORME TOPTRADER",
+    "p":"Nous facilitons l'investissement",
+    "li1":"Application de trading facile à utiliser",
+    "li2":"Accès instantané aux marchés mondiaux",
+    "li3":"Tradez en déplacement" 
+ },
+ "platform":{
+  "title":"Plateforme TopTrader",
+  "caption":{
+    "simple":{
+      "title" :"Simple",
+       "li1" :"Une application de trading légère avec un accès rapide aux marchés",
+       "li2": "Trading facile via votre mobile ou votre navigateur Web",
+       "li3" :"Gérez votre portefeuille de n'importe où"
+    },
+    "secure":{
+      "title" :"Sécurisé",
+       "li1" :"Toutes les informations et données sont cryptées en toute sécurité",
+       "li2": "Authentification à deux facteurs",
+       "li3" :"Essayez l'application pour découvrir de nouvelles façons de trader en toute confiance"
+    },
+    "functional":{
+      "title" :"Fonctionnelle",
+       "li1" :"Doté d'un puissant graphique de tradingView",
+       "li2": "Application de trading facile à utiliser",
+       "li3" :"Accès facile aux actualités, carte thermique du marché"
+    }
+  }
+},
+"mt5":{
+  "text":"MT5 est l'une des plateformes les plus utilisées choisies par les traders et les investisseurs du monde entier pour négocier sur les marchés financiers. Téléchargez-le aujourd'hui et élevez votre trading de tous les avantages qu'il a à offrir.",
+  "download":"Télécharger"
+},
+"benefits":{
+  "title":"Avantages de <br/> MetaTrader 5",
+  "benefits":{
+    "li1":"21 délais de cartographie",
+    "li2":"6 types de commandes en attente",
+    "li3":"Profondeur des marchés",
+    "li4":"Graphiques personnalisables",
+    "li5":"Calendrier économique intégré",
+    "li6":"Commerce en un clic",
+    "li7":"Autonomisé avec les outils de trading Acuity"
+  }
+},
+"promo":{
+  "title":"Vous ne savez pas quelle<br/>plate-forme vous convient ?",
+  "cta":"Entrer en contact"
+},
+  "footer":{
+    "products":"Des produits",
+    "stocks":"Actions",
+    "etfs":"ETFs",
+    "indices":"Indices",
+    "commodities":"Marchandises",
+    "crypto":"Crypto",
+    "forex":"Forex",
+    "platforms":"Plateformes",
+    "topTrader":"TopTrader",
+    "mt5":"MetaTrader5",
+    "learn":"Apprendre",
+    "help-center":"Centre d'aide",
+    "signal-center":"Centre de signalisation",
+    "company":"Entreprise",
+    "about":"À propos",
+    "regulation":"Régulation",
+    "legal":"Documents le'gaux",
+    "contact":"Contactez-nous",
+    "social":"Social",
+    "client-agree":"Accord client",
+    "privacy":"politique de confidentialité",
+    "cookie":"Politique relative aux cookies",
+    "risk":"Divulgation des risques",
+    "terms":{
+      "p":"T.T. TOPTRADER TRADING est une marque déposée de Goldenburg Group Limited, une société d'investissement chypriote (CIF) supervisée et réglementée par la Cyprus Securities and Exchange Commission (CySEC) avec la licence CIF n° 242/14 avec une adresse enregistrée au 46 Ayiou Athanasiou, Ayios Athanasios, Interlink Hermes Plaza, 4102 Limassol, Chypre.",
+      "risk":"Avertissement sur les risques : les CFD sont des instruments complexes et présentent un risque élevé de perdre rapidement de l'argent en raison de l'effet de levier. 89,25% des comptes d'investisseurs particuliers perdent de l'argent lorsqu'ils négocient des CFD avec ce fournisseur. Vous devez vous demander si vous comprenez le fonctionnement des CFD et si vous pouvez vous permettre de prendre le risque élevé de perdre votre argent.",
+      "area":"Régions restreintes : toptrader.eu fournit ses services aux résidents de l'Espace économique européen (EEE) à l'exception de la Belgique, de la Suisse et de la Slovénie. toptrader.eu ne fournit pas ses services au Royaume-Uni et sur les territoires de pays tiers à l'exception de l'Afrique du Sud et de Labuan."
+    },
+    "disclaimer":"Les CFD sont des instruments complexes et présentent un risque élevé de perdre rapidement de l'argent en raison de l'effet de levier. <b>89,25 % des comptes d'investisseurs particuliers perdent de l'argent lorsqu'ils négocient des CFD avec ce fournisseur.</b> Vous devez vous demander si vous comprenez le fonctionnement des CFD et si vous pouvez vous permettre de prendre le risque élevé de perdre votre argent."
+  }
+   
+  }
