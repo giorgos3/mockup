@@ -8,11 +8,11 @@
 
 # install packages
 
-3 - npm i
+4 - npm i
 
 # run app
   
-4 - npm start
+5 - npm start
 
   
  
