@@ -43,7 +43,7 @@ const Platform = () => {
 
     const [count, setCount] = useState(0);
     const [content, setContent] = useState(data[count]);
-  
+    
 
 
     useEffect(() => {
@@ -51,16 +51,17 @@ const Platform = () => {
         setContent(data[count])
         
         // eslint-disable-next-line react-hooks/exhaustive-deps
-      },[i18n.language, content]);
+      },[i18n.language, count]);
 
 
 
-    let handleContent = () => {
+    const handleContent = () => {
         
-        setCount(count +1 )
+        setCount(count + 1)
+        console.log(count)
             if(count === 2){
+
                 setCount(0)
-                setContent(data[count])
             }
         
         setContent(data[count])
@@ -92,7 +93,6 @@ return(
                         }
 
                     </ul>
-               
                     </div>
             </div>
             </div>
