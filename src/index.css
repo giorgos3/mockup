@@ -427,6 +427,24 @@ span.social-title{
 
 }
 
+@media only screen and (min-width: 912px) and (max-width: 991px) {
+
+
+  .wrapper{
+    padding:0;
+  }
+  h2.platforms-title.title {
+    font-size: 35px;
+}
+.platform-box > ul{
+  font-size: 16px;
+}
+.promo-title {
+  font-size: 30px;
+}
+
+}
+
 @media only screen and (min-width: 913px) and (max-width: 1200px) {
 
   .main-header-section::after {
@@ -438,6 +456,8 @@ span.social-title{
   
   }
 }
+
+
 
 
 @media only screen and (max-width: 991px) and (min-width: 913px) {
