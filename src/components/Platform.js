@@ -10,7 +10,7 @@ const Platform = () => {
     const data = [
         {
             id:1,
-            img:"/assets/secure-web-6817a64b.png",
+            img:"/assets/simple-web-aaaceaf7.png",
             content:{
                 title :`${t("platform.caption.simple.title")}`,
                 li :[`${t("platform.caption.simple.li1")}`,
@@ -20,7 +20,8 @@ const Platform = () => {
         },
         {
             id:2,
-            img:"/assets/simple-web-aaaceaf7.png",
+            
+            img:"/assets/secure-web-6817a64b.png",
             content:{
                 title :`${t("platform.caption.secure.title")}`,
                 li :[`${t("platform.caption.secure.li1")}`,
